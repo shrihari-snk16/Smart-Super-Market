@@ -49,9 +49,21 @@ Order Value| Discount
 
 🛠 Tech Stack
 
+## 📚 Learning Outcomes
+
+This project helped me develop and improve skills in:
+
+- Software Development using C++
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+- Responsive User Interface Design
+- Git & GitHub Workflow
+- Website Deployment with Vercel
+- Debugging and Problem Solving
+- Project Planning and Documentation
+
+One of the most valuable experiences was transforming a console-based C++ project into a fully functional web application.
 
 ---
 
