@@ -71,7 +71,7 @@ Shopping Cart
 
 Checkout Modal
 
-![image alt]()
+![image alt](https://github.com/shrihari-snk16/Smart-Super-Market/blob/main/screenshots/checkout.png.png)
 
 Order Success Screen
 
