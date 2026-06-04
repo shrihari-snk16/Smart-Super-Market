@@ -6,7 +6,7 @@ SMARTKART provides an interactive shopping experience with category-based produc
 
 🚀 Live Demo
 
-🔗 Live Website: https://your-vercel-link.vercel.app
+🔗 Live Website: https://smart-super-market.vercel.app/
 
 ---
 
