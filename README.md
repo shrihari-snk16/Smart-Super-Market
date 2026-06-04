@@ -63,23 +63,22 @@ Welcome Screen
 
 Product Catalog
 
-"Product Catalog" (assets/screenshots/product-catalog.png)
+![image alt](https://github.com/shrihari-snk16/Smart-Super-Market/blob/main/screenshots/catalog.png.png)
 
 Shopping Cart
 
-"Shopping Cart" (assets/screenshots/shopping-cart.png)
+![image alt]()
 
 Checkout Modal
 
-"Checkout Modal" (assets/screenshots/checkout-modal.png)
+![image alt]()
 
 Order Success Screen
 
-"Order Success Screen" (assets/screenshots/success-screen-1.png)
+![image alt]()
 
-Digital Receipt
 
-"Digital Receipt" (assets/screenshots/success-screen-2.png)
+![image alt]()
 
 ---
 
