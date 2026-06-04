@@ -67,7 +67,7 @@ Product Catalog
 
 Shopping Cart
 
-![image alt]()
+![image alt](https://github.com/shrihari-snk16/Smart-Super-Market/blob/main/screenshots/cart.png.png)
 
 Checkout Modal
 
