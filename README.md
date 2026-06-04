@@ -59,7 +59,7 @@ Order Value| Discount
 
 Welcome Screen
 
-"Welcome Screen" (assets/screenshots/welcome-screen.png)
+![image alt](https://github.com/shrihari-snk16/Smart-Super-Market/blob/main/screenshots/home.png.png)
 
 Product Catalog
 
