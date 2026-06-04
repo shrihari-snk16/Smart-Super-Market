@@ -78,7 +78,7 @@ Order Success Screen
 ![image alt](https://github.com/shrihari-snk16/Smart-Super-Market/blob/main/screenshots/success.png.png)
 
 
-![image alt]()
+![image alt](https://github.com/shrihari-snk16/Smart-Super-Market/blob/main/screenshots/success1.png.png)
 
 ---
 
